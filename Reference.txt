@@ -17,3 +17,7 @@ PySerial Tutorial (Just in case for debugging using Serial Port): https://www.yo
 RPi Tutorials (For Beginners): https://www.youtube.com/watch?v=1WDagiA8fdU&list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O
 
 All Protocols Explained (SPI,i2c,UART,CAN): https://www.youtube.com/watch?v=gFwly1iFaEo&t=380s
+
+Arduino CAN Bus Guide: https://youtu.be/ZH_CCs12ptg?si=xUIsm0V55vNywd4n
+
+Arduino Wire Library Documentation: https://www.arduino.cc/reference/en/language/functions/communication/wire/
